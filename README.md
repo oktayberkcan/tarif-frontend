@@ -1,2 +1,2 @@
 # tarif-frontend
-Tarif Web Sitesi
+ Bir yemek ya da tatlının tarifini öğrendiğimiz bir web sitesi
